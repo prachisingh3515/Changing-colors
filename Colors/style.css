@@ -1,0 +1,25 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    margin-top: 10%;
+    align-items: center;
+    height: 100vh;
+}
+button{
+    
+    cursor: pointer;
+    padding: 20px;
+    border-color:rgb(116, 12, 109);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 50%;  
+
+}
+h1{
+   font-size: 150px; 
+   text-shadow: 3px 4px 2px white;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
